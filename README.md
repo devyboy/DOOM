@@ -1,4 +1,4 @@
-
+# Doom Source 
 Here it is, at long last.  The DOOM source code is released for your
 non-profit use.  You still need real DOOM data to work with this code.
 If you don't actually own a real copy of one of the DOOMs, you should
@@ -44,7 +44,7 @@ clip would be pretty easy.  Sweeping volumes for movement gets a bit
 tougher, and touches on many of the challenges faced in quake / quake2
 with edge bevels on polyhedrons.
 
-Some project ideas:
+## Some project ideas:
 
 Port it to your favorite operating system.
 
